@@ -47,6 +47,6 @@ Nov： model training&test，
 Doc： compare results， improve model， finish report
 
 # references
-https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00548-1#Bib1
+Paper:https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00548-1#Bib1
 
 database:https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data
