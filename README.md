@@ -44,7 +44,7 @@ Oct: Processed all data
 
 Nov： model training&test，
 
-Doc： compare results， improve model， finish report
+Dec： compare results， improve model， finish report
 
 # references
 Paper:https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00548-1#Bib1
